@@ -10,36 +10,36 @@
 @theme {
     --font-display: "Montserrat", sans-serif;
 
-    --color-primary: rgba(100, 100, 100, 1);
+    --color-primary: rgba(35, 114, 186, 1);
 
-    --color-header-btn: rgba(0, 0, 0, 1);
+    --color-header-btn: rgba(43, 47, 86, 1);
 
-    --color-heading: rgba(100, 100, 100, 1);
-    --color-hero-btn: rgba(100, 100, 100, 1);
+    --color-heading: rgba(35, 114, 186, 1);
+    --color-hero-btn: rgba(35, 114, 186, 1);
 
     --color-background-card: rgba(239, 249, 255, 1);
 
-    --color-cards-advantages: rgba(255, 251, 240, 1);
+    --color-cards-advantages: rgba(243, 244, 255, 1);
     --color-advantages-subheading: rgba(0, 114, 208, 1);
 
     --color-why-us-subheading: rgba(83, 123, 18, 1);
-    --color-why-us-left: rgba(244, 253, 245, 1);
-    --color-why-us-right: rgba(244, 253, 245, 1);
-    --color-why-us-button: rgba(100, 100, 100, 1);
+    --color-why-us-left: rgba(237, 255, 244, 1);
+    --color-why-us-right: rgba(237, 255, 244, 1);
+    --color-why-us-button: rgba(35, 114, 186, 1);
 
     --color-card-two-special-text: rgba(127, 17, 0, 1);
     --color-card-three-special-text: rgba(0, 127, 88, 1);
     --color-card-four-special-text: rgba(202, 131, 8, 1);
 
-    --color-card-one: rgba(244, 253, 245, 1);
-    --color-card-two: rgba(255, 248, 225, 1);
-    --color-card-three: rgba(244, 253, 245, 1);
-    --color-card-four: rgba(255, 248, 225, 1);
+    --color-card-one: rgba(237, 246, 255, 1);
+    --color-card-two: rgba(237, 255, 244, 1);
+    --color-card-three: rgba(237, 246, 255, 1);
+    --color-card-four: rgba(237, 255, 244, 1);
 
-    --color-contact-form: rgba(100, 100, 100, 1);
-    --color-contact-form-shape: rgba(72, 72, 72, 1);
+    --color-contact-form: rgba(35, 114, 186, 1);
+    --color-contact-form-shape: rgba(1, 80, 153, 1);
 
-    --color-footer: rgba(59, 51, 45, 1);
+    --color-footer: rgba(41, 41, 47, 1);
 }
 
 @layer utilities {
@@ -63,7 +63,7 @@
         height: 500px;
         top: 9%;
         left: -17%;
-        background: radial-gradient(50% 50% at 50% 50%, rgba(166, 166, 166, 0.4) 0%, rgba(236, 236, 236, 0) 100%);
+        background: radial-gradient(50% 50% at 50% 50%, rgba(157, 211, 255, 0.4) 0%, rgba(157, 211, 255, 0) 100%);
     }
 
     .bg-glow-invests {
@@ -71,7 +71,7 @@
         height: 200px;
         bottom: 10%;
         right: 4%;
-        background: radial-gradient(50% 50% at 50% 50%, rgba(157, 211, 255, 0.4) 0%, rgba(157, 211, 255, 0) 100%);
+        background: radial-gradient(50% 50% at 50% 50%, rgba(166, 166, 166, 0.4) 0%, rgba(236, 236, 236, 0) 100%);
     }
 
     .section-spacing {
